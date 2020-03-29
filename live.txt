@@ -1,6 +1,6 @@
 <item>
 <title>test</title>
-<link>https://www.dropbox.com/h?preview=september+bangers+(1).mp3</link>
+<link>https://files.catbox.moe/cfyvk9.mp3</link>
 <thumbnail>https://www.dropbox.com/h?preview=20181110_103332.jpg</thumbnail>
 <fanart>https://www.dropbox.com/h?preview=20181110_103332.jpg</fanart>
 </item>
