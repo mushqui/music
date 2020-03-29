@@ -1,13 +1,15 @@
 <item>
-<title>test</title>
+<title>september bangers</title>
 <link>https://files.catbox.moe/cfyvk9.mp3</link>
-<thumbnail>https://www.dropbox.com/h?preview=20181110_103332.jpg</thumbnail>
-<fanart>https://www.dropbox.com/h?preview=20181110_103332.jpg</fanart>
+<thumbnail>https://i.pinimg.com/564x/d5/9b/02/d59b02724ac81dc960ea2bb8286450bb.jpg</thumbnail>
+<fanart>https://www.ecopetit.cat/wpic/mpic/6-63845_wallpaper-of-colors-dj-wolf-music-background-hd.jpg</fanart>
 </item>
 
 <item>
-<title>test</title>
-<link>https://www.dropbox.com/s/6wyi0l4d9hsxshm/september%20bangers%20%281%29.mp3?dl=0</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>on its way</title>
+<link>https://files.catbox.moe/cfyvk9.mp3</link>
+<thumbnail>https://i.pinimg.com/564x/d5/9b/02/d59b02724ac81dc960ea2bb8286450bb.jpg</thumbnail>
+<fanart>https://www.ecopetit.cat/wpic/mpic/6-63845_wallpaper-of-colors-dj-wolf-music-background-hd.jpg</fanart>
 </item>
+
+
