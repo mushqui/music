@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR deepskyblue]M[/COLOR] [COLOR orchid]usic[/COLOR]</name>
 <thumbnail>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/features/2017/cristiano-ronaldo/june5/fifa18-ronaldopage-accolade-fg-xs.png</thumbnail>
-<externallink>https://pastebin.com/raw/vtJqWUen</externallink>
+<externallink>https://raw.githubusercontent.com/mushqui/music/master/live.txt</externallink>
 <fanart>https://png.pngtree.com/element_origin_min_pic/16/08/18/2257b5c9a30e84a.jpg</fanart>
 <info></info>
 </channel>
