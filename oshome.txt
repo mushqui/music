@@ -3,36 +3,13 @@
 <channels>
  
 <channel>
-<name>[COLOR deepskyblue]Sport[/COLOR] [COLOR orchid]Channels[/COLOR]</name>
+<name>[COLOR deepskyblue]M[/COLOR] [COLOR orchid]usic[/COLOR]</name>
 <thumbnail>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/features/2017/cristiano-ronaldo/june5/fifa18-ronaldopage-accolade-fg-xs.png</thumbnail>
 <externallink>https://pastebin.com/raw/vtJqWUen</externallink>
 <fanart>https://png.pngtree.com/element_origin_min_pic/16/08/18/2257b5c9a30e84a.jpg</fanart>
 <info></info>
 </channel>
 
-<channel>
-<name>[COLOR deepskyblue]Live[/COLOR] [COLOR orchid]Games[/COLOR]</name>
-<thumbnail>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/features/2017/cristiano-ronaldo/june5/fifa18-ronaldopage-accolade-fg-xs.png</thumbnail>
-<externallink>https://pastebin.com/raw/N02u5HHX</externallink>
-<fanart>https://png.pngtree.com/element_origin_min_pic/16/08/18/2257b5c9a30e84a.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR deepskyblue]Sport[/COLOR] [COLOR orchid]Iptv[/COLOR]</name>
-<thumbnail>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/features/2017/cristiano-ronaldo/june5/fifa18-ronaldopage-accolade-fg-xs.png</thumbnail>
-<externallink>http://xml.autoiptv.net/sport.php</externallink>
-<fanart>https://png.pngtree.com/element_origin_min_pic/16/08/18/2257b5c9a30e84a.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR deepskyblue]Uk[/COLOR] [COLOR orchid]Iptv[/COLOR]</name>
-<thumbnail>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/features/2017/cristiano-ronaldo/june5/fifa18-ronaldopage-accolade-fg-xs.png</thumbnail>
-<externallink>http://xml.autoiptv.net/normal.php?c=UK</externallink>
-<fanart>https://png.pngtree.com/element_origin_min_pic/16/08/18/2257b5c9a30e84a.jpg</fanart>
-<info></info>
-</channel>
 
 
 
