@@ -1,8 +1,8 @@
 <item>
 <title>test</title>
 <link>https://www.dropbox.com/h?preview=september+bangers+(1).mp3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.dropbox.com/h?preview=20181110_103332.jpg</thumbnail>
+<fanart>https://www.dropbox.com/h?preview=20181110_103332.jpg</fanart>
 </item>
 
 <item>
