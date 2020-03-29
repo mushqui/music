@@ -1,14 +1,14 @@
 <item>
 <title>september bangers</title>
 <link>https://files.catbox.moe/cfyvk9.mp3</link>
-<thumbnail>https://files.catbox.moe/4hxg2c.png/thumbnail>
+<thumbnail>https://files.catbox.moe/0ffrla.png</thumbnail>
 <fanart>https://www.ecopetit.cat/wpic/mpic/6-63845_wallpaper-of-colors-dj-wolf-music-background-hd.jpg</fanart>
 </item>
 
 <item>
 <title>on its way</title>
 <link>https://files.catbox.moe/cfyvk9.mp3</link>
-<thumbnail>https://files.catbox.moe/4hxg2c.png</thumbnail>
+<thumbnail>https://files.catbox.moe/0ffrla.png</thumbnail>
 <fanart>https://www.ecopetit.cat/wpic/mpic/6-63845_wallpaper-of-colors-dj-wolf-music-background-hd.jpg</fanart>
 </item>
 
