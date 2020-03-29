@@ -1,6 +1,13 @@
 <item>
-<title>Vevo</title>
-<link></link>
+<title>test</title>
+<link>https://www.dropbox.com/h?preview=september+bangers+(1).mp3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>test</title>
+<link>https://www.dropbox.com/s/6wyi0l4d9hsxshm/september%20bangers%20%281%29.mp3?dl=0</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
