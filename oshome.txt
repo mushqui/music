@@ -5,7 +5,7 @@
 <channel>
 <name>mushqui's mixes</name>
 <thumbnail>https://files.catbox.moe/0ffrla.png</thumbnail>
-<externallink>https://mushqui.000webhostapp.com/test.txt</externallink>
+<externallink>https://raw.githubusercontent.com/mushqui/music/master/live.txt</externallink>
 <fanart>https://www.ecopetit.cat/wpic/mpic/6-63845_wallpaper-of-colors-dj-wolf-music-background-hd.jpg</fanart>
 <info></info>
 </channel>
