@@ -1,6 +1,6 @@
 <item>
-<title>bell</title>
-<link>http://www.sports-stream.net/ch/bt1.html</link>
+<title>solo</title>
+<link>https://mushqui.000webhostapp.com/electro%20house%20mixes/Solo%20(Press%20Play%20Bootleg).mp3</link>
 <thumbnail>https://soundcloud.com/mushqui/september-bangers</thumbnail>
 <fanart>https://www.ecopetit.cat/wpic/mpic/6-63845_wallpaper-of-colors-dj-wolf-music-background-hd.jpg</fanart>
 </item>
