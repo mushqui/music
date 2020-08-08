@@ -10,53 +10,41 @@
 <dir>
 <title>[COLORgold]RADIO[/COLOR]</title>
 <link>file://radio.xml</link>
-<thumbnail>https://mushqui.000webhostapp.com/electro%20house%20mixes/icon.png</thumbnail>
 </dir>
 <dir>
 <title>[COLORgold]TUTORIALS[/COLOR]</title>
 <link>file://iptv.xml</link>
-<thumbnail>https://mushqui.000webhostapp.com/electro%20house%20mixes/icon.png</thumbnail>
 </dir> 
 <dir>
 <name>[COLORgold]24/7[/COLOR]</name>
 <link>file://musicchannels.xml</link>
 <animated_thumbnail></animated_thumbnail>
-<thumbnail>https://mushqui.000webhostapp.com/electro%20house%20mixes/icon.png</thumbnail>
 <animated_fanart></animated_fanart>
-<fanart>http://www.mulierchile.com/music-wallpaper-widescreen/music-wallpaper-widescreen-009.jpg</fanart>
 </dir>
 <dir>
 <name>[COLORgold]DJ SETS[/COLOR]</name>
 <link>file://djsets.xml</link>
 <animated_thumbnail></animated_thumbnail>
-<thumbnail>https://mushqui.000webhostapp.com/electro%20house%20mixes/icon.png</thumbnail>
 <animated_fanart></animated_fanart>
-<fanart>http://www.mulierchile.com/music-wallpaper-widescreen/music-wallpaper-widescreen-009.jpg</fanart>
 </dir>
 <dir>
 <name>[COLORgold]GUEST MIXES[/COLOR]</name>
 <link>file://guest.xml</link>
 <animated_thumbnail></animated_thumbnail>
-<thumbnail>https://mushqui.000webhostapp.com/electro%20house%20mixes/icon.png</thumbnail>
 <animated_fanart></animated_fanart>
-<fanart>http://www.mulierchile.com/music-wallpaper-widescreen/music-wallpaper-widescreen-009.jpg</fanart>
 </dir>
 <dir>
 <name>[COLORgold]MOVIES[/COLOR]</name>
 <link>file://movies.xml</link>
 <animated_thumbnail></animated_thumbnail>
-<thumbnail>https://mushqui.000webhostapp.com/electro%20house%20mixes/icon.png</thumbnail>
 <animated_fanart></animated_fanart>
-<fanart>http://www.mulierchile.com/music-wallpaper-widescreen/music-wallpaper-widescreen-009.jpg</fanart>
 </dir>
 
 <dir>
 <name>[COLORgold]CHART[/COLOR]</name>
 <link>file://chart.xml</link>
 <animated_thumbnail></animated_thumbnail>
-<thumbnail>https://mushqui.000webhostapp.com/electro%20house%20mixes/icon.png</thumbnail>
 <animated_fanart></animated_fanart>
-<fanart>http://www.mulierchile.com/music-wallpaper-widescreen/music-wallpaper-widescreen-009.jpg</fanart>
 </dir>
 
 <dir>
@@ -70,13 +58,5 @@
 <password>get/Z2g=</password>
 </dir>
 
-<dir>
-<name>[COLORgold]TEST AREA[/COLOR]</name>
-<link>file://testarea.xml</link>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail>https://mushqui.000webhostapp.com/electro%20house%20mixes/icon.png</thumbnail>
-<animated_fanart></animated_fanart>
-<fanart>http://www.mulierchile.com/music-wallpaper-widescreen/music-wallpaper-widescreen-009.jpg</fanart>
-</dir>
 
 </xml>
