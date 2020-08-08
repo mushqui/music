@@ -6,23 +6,12 @@
 
 <!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
 <plugin>
-<name>[COLORlimegreen]SERVER [/COLOR][COLORwhite]1[/COLOR]</name>
-    <link>plugin://plugin.video.SportsDevil/?item=url=livesports/stopstream.com.cfg&amp;mode=1</link>
-<thumbnail>https://freeclipartimage.com//storage/upload/sports-clip-art/sports-clip-art-1.png</thumbnail>
-</plugin>
-</plugin>
-<plugin>
 <name>[COLORlimegreen]SERVER [/COLOR][COLORwhite]2[/COLOR]</name>
-    <link>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</link>
+    <link>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</link>
 <thumbnail>https://freeclipartimage.com//storage/upload/sports-clip-art/sports-clip-art-1.png</thumbnail>
 </plugin>
-<plugin>
-<name>[COLORlimegreen]SERVER [/COLOR][COLORwhite]3[/COLOR]</name>
-    <link>plugin://plugin.video.SportsDevil/?item=url=livesports/sportlemon.cfg&amp;mode=1</link>
-<thumbnail>https://freeclipartimage.com//storage/upload/sports-clip-art/sports-clip-art-1.png</thumbnail>
-</plugin>
-<plugin>
-<name>[COLORlimegreen]SERVER [/COLOR][COLORwhite]4[/COLOR]</name>
-    <link>plugin://plugin.video.SportsDevil/?item=url=livesports/atdee.net.cfg&amp;mode=1</link>
-<thumbnail>https://freeclipartimage.com//storage/upload/sports-clip-art/sports-clip-art-1.png</thumbnail>
-</plugin>
+   <dir>
+<title>HesGoal Games</title>
+<hesgoal>games</hesgoal>
+</dir>
+﻿</xml>
