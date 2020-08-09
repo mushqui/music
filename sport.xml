@@ -9,17 +9,16 @@
 
   
 
-<plugin>
+<dir>
 <dir>
 <name>[COLORlimegreen]LIVE EVENTS[/COLOR]</name>
 <link>file://liveevents.xml</link>
-<password>get/Z2g=</password>
+</dir>
 
 </dir>
 <dir>
 <name>[COLORlimegreen]SPORT CHANNELS[/COLOR]</name>
 <link>file://sportchannels.xml</link>
-<password>get/Z2g=</password>
 </dir>
 
 
