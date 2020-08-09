@@ -1,3 +1,8 @@
+        <item>
+          <title>password test</title>
+            <passreq>Z2g=|https://raw.githubusercontent.com/mushqui/music/master/main2.xml</passreq>
+        </item>
+
 [B]CURRENT VERSION:[/B] [B][COLORcyan]Vulcan - Version 4.0[/COLOR][/B]
 [B]CURRENT VERSION:[/B] [B][COLORcyan]new addon from baz get password for sports from @bazza_05 on twitter[/COLOR][/B]
 [B]CURRENT VERSION:[/B] [B][COLORcyan]adding content when possible [/COLOR][/B]
