@@ -8,46 +8,46 @@
 <!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
 <xml>
 <dir>
-<title>[COLORgold]RADIO[/COLOR]</title>
+<title>[COLORcyan]RADIO[/COLOR]</title>
 <link>file://radio.xml</link>
 </dir>
 <dir>
-<title>[COLORgold]TUTORIALS[/COLOR]</title>
+<title>[COLORcyan]TUTORIALS[/COLOR]</title>
 <link>file://tuts.xml</link>
 </dir> 
 <dir>
-<name>[COLORgold]24/7[/COLOR]</name>
+<name>[COLORcyan]24/7[/COLOR]</name>
 <link>file://musicchannels.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
 <dir>
-<name>[COLORgold]DJ SETS[/COLOR]</name>
+<name>[COLORcyan]DJ SETS[/COLOR]</name>
 <link>file://djsets.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
 <dir>
-<name>[COLORgold]GUEST MIXES[/COLOR]</name>
+<name>[COLORcyan]GUEST MIXES[/COLOR]</name>
 <link>file://guest.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
 <dir>
-<name>[COLORgold]MOVIES[/COLOR]</name>
+<name>[COLORcyan]MOVIES[/COLOR]</name>
 <link>file://movies.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
 
 <dir>
-<name>[COLORgold]CHART[/COLOR]</name>
+<name>[COLORcyan]CHART[/COLOR]</name>
 <link>file://chart.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
-
-
-
-
 </xml>
+
+
+
+
