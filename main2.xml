@@ -47,7 +47,10 @@
 <animated_fanart></animated_fanart>
 </dir>
 
-
+        <item>
+          <title>password test</title>
+            <passreq>Z2g=|http://www.example.com/submenu.xml</passreq>
+        </item>
 
 
 </xml>
