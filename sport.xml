@@ -1,0 +1,32 @@
+<xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layouttype>Fuck Off You Nosey Cunt</layouttype>
+
+<!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
+
+
+  
+
+<plugin>
+<dir>
+<name>[COLORlimegreen]LIVE EVENTS[/COLOR]</name>
+<link>file://liveevents.xml</link>
+<password>get/Z2g=</password>
+
+</dir>
+<dir>
+<name>[COLORlimegreen]SPORT CHANNELS[/COLOR]</name>
+<link>file://sportchannels.xml</link>
+<password>get/Z2g=</password>
+</dir>
+
+
+
+
+
+
+
+
+
