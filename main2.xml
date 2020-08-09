@@ -47,16 +47,7 @@
 <animated_fanart></animated_fanart>
 </dir>
 
-<dir>
-<title>[COLORgold]LIVE SPORT[/COLOR]</title>
-<link>https://raw.githubusercontent.com/mushqui/music/master/liveevents.xml</link>
-<password>get/Z2g=</password>
-</dir>
-<dir>
-<title>[COLORgold]CHANNELS[/COLOR]</title>
-<link>https://raw.githubusercontent.com/mushqui/music/master/sportchannels.xml</link>
-<password>get/Z2g=</password>
-</dir>
+
 
 
 </xml>
