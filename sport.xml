@@ -11,13 +11,13 @@
 
 <dir>
 <dir>
-<name>[COLORlimegreen]LIVE EVENTS[/COLOR]</name>
+<name>[COLORcyan]LIVE EVENTS[/COLOR]</name>
 <link>file://liveevents.xml</link>
 </dir>
 
 </dir>
 <dir>
-<name>[COLORlimegreen]SPORT CHANNELS[/COLOR]</name>
+<name>[COLORcyan]SPORT CHANNELS[/COLOR]</name>
 <link>file://sportchannels.xml</link>
 </dir>
 
