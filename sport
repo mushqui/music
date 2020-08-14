@@ -1,0 +1,94 @@
+<xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layouttype>Fuck Off You Nosey Cunt</layouttype>
+
+<!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
+<plugin>
+<title>[COLORcyan]test[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://time4tv.stream/watch/sports/bt-sport-1.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<item>
+   <title>test 3</title>
+   <link>http://time4tv.stream/watch/sports/bt-sport-1.php</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+<plugin>
+<title>[COLORcyan]UK SPORT CHANNELS[/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?item=url=livesports/sports-stream.net.cfg&amp;mode=1</link>
+</plugin>
+<item>
+<title>[B][COLORdodgerblue]vvvvvvvvvvvvv Backup Links vvvvvvvvvvvvvvvvvvvvvv[/COLOR][/B]</title>
+</item>
+
+<plugin>
+<title>[COLORcyan]Bt Sport 1[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-1.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Bt Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-2.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Bt Sport 3[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-3.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Bt Sport Espn[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-ESPN.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Sky Sports Main Event[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Sky Sports Football[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Football.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Sky Sports Premier League[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Premier-League.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Sky Sports Action[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Action.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Sky Sports Arena[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Arena.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Sky Sports F1[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Formula-1.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Sky Sports Cricket[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Cricket.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<title>[COLORcyan]Sky Sports Golf[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Golf.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+ 
+ 
+ 
+ 
+ 
+
+ 
+
