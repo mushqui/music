@@ -39,4 +39,9 @@
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
+<plugin>
+    <title>[COLORcyan]Karaoke[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/channel/UCwTRjvjVge51X-ILJ4i22ew/playlists/</link>
+    <
+  </plugin>
 </xml>
