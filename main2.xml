@@ -17,7 +17,7 @@
 </dir>
 
 <dir>
-<name>[COLORcyan]MOVIES[/COLOR]</name>
+<name>[COLORcyan]Movies[/COLOR]</name>
 <link>file://movies.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
