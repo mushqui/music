@@ -11,7 +11,10 @@
 <title>[COLORcyan]Music[/COLOR]</title>
 <link>https://raw.githubusercontent.com/mushqui/music/master/musicmenu</link>
 </dir>
-
+<item>
+    <title>[COLORcyan]Apply Youtube API Keys to Youtube Addon[/COLOR]</title>
+    <ytapi>titleforyouapigoeshere/AIzaSyCJQTNtm1rTl5tmmDjlj4cprgIzyC1JyRc/261327353133-8487ig2s7uuopu85p17bj2qsf0ovb7cd.apps.googleusercontent.com/k95xoNC0UI128KUODAtkW8wx</ytapi>
+</item>
 <dir>
 <name>[COLORcyan]MOVIES[/COLOR]</name>
 <link>file://movies.xml</link>
