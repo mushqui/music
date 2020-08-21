@@ -1,3 +1,9 @@
+[B][COLORdodgerblue]LAST UPDATE:[/COLOR] [B][COLORred]21.08.20[/COLOR][/B]
+[B][B][COLORdodgerblue]CURRENT VERSION:[/COLOR][/B] [B][COLORcyan]Vulcan - Version 4.1[/COLOR][/B]
+
+[B][B][COLORdodgerblue]UPDATES:[/COLOR]Latest Update New Main Screen Added Backup Uk Sports[/B][B][COLORcyan][/COLOR][/B]
+
+[COLORcyan]................................................................................................................................................................[/COLOR]
 [B][COLORdodgerblue]LAST UPDATE:[/COLOR] [B][COLORred]09.07.20[/COLOR][/B]
 [B][B][COLORdodgerblue]CURRENT VERSION:[/COLOR][/B] [B][COLORcyan]Vulcan - Version 4.0[/COLOR][/B]
 [B][B][COLORdodgerblue]PASSWORD:[/COLOR][/B] [B][COLORcyan]new addon from baz get password for sports from @bazza_05 on twitter[/COLOR][/B]
