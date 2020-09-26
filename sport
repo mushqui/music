@@ -17,9 +17,13 @@
 <item>
 <title>[B][COLORdodgerblue]vvvvvvvvvvvvv Backup Links vvvvvvvvvvvvvvvvvvvvvv[/COLOR][/B]</title>
 </item>
-    
 <plugin>
-<title>[COLORcyan]live shit[/COLOR]</title>
+<title>[COLORcyan]live shite[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.mamacdn.com/link.php?asad=http://live.harleyquinnwidget.live/freelivematch/8186153052458600.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>    
+<plugin>
+<title>[COLORcyan]live shite[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://live.harleyquinnwidget.live/freelivematch/8186153052458610.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
 <thumbnail></thumbnail>
 </plugin>
