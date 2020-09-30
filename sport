@@ -5,10 +5,16 @@
 <layouttype>Fuck Off You Nosey Cunt</layouttype>
 
 <!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
-<dir>
-<title>[COLORcyan]s p[/COLOR]</title>
-<link>https://pastebin.com/raw/wBWmY6bP</link>
-</dir>
+    <plugin>
+<title>[COLORcyan]hd 1[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
+        <plugin>
+<title>[COLORcyan]hd 2[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
     <plugin>
 <title>[COLORcyan]test[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://time4tv.stream/watch/sports/bt-sport-1.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
