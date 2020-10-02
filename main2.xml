@@ -18,8 +18,8 @@
     </items_info>
 
     <item>
-        <title>POKER CHANNEL</title>
-        <link>mms://some/place/pokerchannel</link>
+        <title>bt</title>
+        <link>http://m.liveonlinetv.org/external.php?title=BT%20Sport&stream=btsport1-hq</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Poker</genre>
         <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
@@ -29,8 +29,8 @@
     </item>
     
 	<item>
-        <title>NHK - World</title>         
-        <link>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
+        <title>bt</title>         
+        <link>http://free.crichd.online/embed2.php?id=btsp1</link>
         <thumbnail>http://header_logo.gif</thumbnail>
     </item>
 	
