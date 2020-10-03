@@ -1,16 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
   
-<xml>
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-
-<layouttype>Fuck Off You Nosey Cunt</layouttype>
-
-<!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
-
-
-<item>
-<title>[COLORcyan]Main Menu[/COLOR]</title>
-<link>https://github.com/mushqui/music/blob/master/sport.xml</link>
+<channel>
+<name>[COLORcyan]Main Menu[/COLOR]</name>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
+<externallink>https://github.com/mushqui/music/blob/master/sport.xml</externallink>
 <fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
-</item>
+<info></info>
+</channel>
+</channels>
+
