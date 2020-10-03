@@ -97,7 +97,7 @@
 	
 <item>
 <title>12:00 l [COLOR dodgerblue]Barcelona v Celta Vigo[/COLOR]</title>
-  <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Remote.m3u&amp;output=mpegts$$TSDOWNLOADER$$</link>
+  <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/ajonx/Ambyar-TV/master/Sports.m3u&amp;output=mpegts$$TSDOWNLOADER$$</link>
 <thumbnail>https://leaguelane.com/wp-content/uploads/2017/03/Barcelona-vs-Celta-Vigo-Match-Preview-Spanish-LaLiga-4Mar2017.jpg</thumbnail>
 <fanart>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/DFCSi-LXUAAdsto-639x330.jpg</fanart>
 </item>
