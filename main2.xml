@@ -2,7 +2,16 @@
 <channels>
   
 <channel>
-<name>[COLORcyan]Main Menu[/COLOR]</name>
+<name>[COLORcyan]Sport[/COLOR]</name>
+<thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mushqui/music/master/sport.xml</externallink>
+<fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channel>
+<name>[COLORcyan]Music[/COLOR]</name>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mushqui/music/master/sport.xml</externallink>
 <fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
