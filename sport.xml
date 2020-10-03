@@ -95,3 +95,13 @@
     <fanart></fanart>
 </item>
 	
+<item>
+<title>12:00 l [COLOR dodgerblue]Barcelona v Celta Vigo[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=baz iptv#
+sublink:plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NetStreams SportsHUB#
+sublink:plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://leaguelane.com/wp-content/uploads/2017/03/Barcelona-vs-Celta-Vigo-Match-Preview-Spanish-LaLiga-4Mar2017.jpg</thumbnail>
+<fanart>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/DFCSi-LXUAAdsto-639x330.jpg</fanart>
+</item>
