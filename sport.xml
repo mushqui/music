@@ -89,8 +89,8 @@
 </regex>
 </item>
 <item>
-    <title>M3U Name</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/ajonx/Ambyar-TV/master/Sports.m3u</link>
+    <title>Channels</title>
+    <link>https://raw.githubusercontent.com/ajonx/Ambyar-TV/master/Sports.m3u</link>
 	<thumbnail></thumbnail>
     <fanart></fanart>
 </item>
