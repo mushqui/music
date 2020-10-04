@@ -15,10 +15,10 @@
 <regex>
     <name>makelist</name>
     <listrepeat><![CDATA[
-    <title>[COLOR lime] -[COLOR white][makelist.param1] - [makelist.param2] [COLOR lime](Vulcan Addon)[/COLOR]</title>
+    <title>[COLOR lime] -[COLOR white][makelist.param1] - [makelist.param2] [COLOR lime](Sports Bar)[/COLOR]</title>
     <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <thumbnail>$pyFunction:'[makelist.param4]'.replace('sporttv1', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('sporttv2', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('sporttv3', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('sporttv4', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('sporttv5', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd2', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd3', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd4', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd5', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd6', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd7', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd8', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd9', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('hd10', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('br1', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('br2', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('br3', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('br4', 'https://mushqui.000webhostapp.com/mushqui/icon.png').replace('br5', 'https://mushqui.000webhostapp.com/mushqui/icon.png')</thumbnail>
-    <fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
+    <thumbnail>$pyFunction:'[makelist.param4]'.replace('sporttv1', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('sporttv2', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('sporttv3', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('sporttv4', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('sporttv5', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd2', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd3', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd4', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd5', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd6', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd7', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd8', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd9', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd10', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br1', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br2', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br3', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br4', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br5', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png')</thumbnail>
+    <fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
     ]]></listrepeat>
     <expres>(\d\d:\d\d)\s+(.+?)\|\s+https\:\/\/sportzonline\.co\/channels\/(.+?)\/(.+?)\.php</expres>
     <page>https://sportzonline.to/prog.txt</page>
@@ -60,8 +60,8 @@
 <listrepeat><![CDATA[
  <title>[COLOR lawngreen][B] ([data_jogo.param1])[/B][/COLOR][COLOR white][B] [data_jogo.param2][/B][/COLOR]</title>
 <link>$doregex[link]</link>
- <thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
-<fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
+ <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
  ]]></listrepeat>
 <expres><![CDATA[(?s)\<tr\>\s+\<td>(.*?)<\/td\>\s+\<td>(.+?)<\/td>(?s)(.+?)<\/tr>]]></expres>
 <page>https://dailysport.pw</page>
@@ -69,10 +69,10 @@
 <regex>
 <name>link</name>
 <listrepeat><![CDATA[
- <title>[COLOR lawngreen][B] -[/B][/COLOR][COLOR white][B] [link.param2][/B][/COLOR] [COLOR lime](Vulcan Addon)[/COLOR]</title>
+ <title>[COLOR lawngreen][B] -[/B][/COLOR][COLOR white][B] [link.param2][/B][/COLOR] [COLOR lime](Sports Bar)[/COLOR]</title>
 <link>$doregex[decode]</link>
- <thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
-<fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
+ <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
  ]]></listrepeat>
 <expres><![CDATA[href\="(.*?)">(.*?)<\/a]]></expres>
 <page>[data_jogo.param3]</page>
@@ -94,11 +94,3 @@
 	<thumbnail></thumbnail>
     <fanart></fanart>
 </item>
-	
-<item>
-<title>12:00 l [COLOR dodgerblue]Barcelona v Celta Vigo[/COLOR]</title>
-  <link>https://raw.githubusercontent.com/ajonx/Ambyar-TV/master/Sports.m3u</link>
-<thumbnail>https://leaguelane.com/wp-content/uploads/2017/03/Barcelona-vs-Celta-Vigo-Match-Preview-Spanish-LaLiga-4Mar2017.jpg</thumbnail>
-<fanart>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/DFCSi-LXUAAdsto-639x330.jpg</fanart>
-</item>
-
