@@ -8,7 +8,7 @@
 
 
 <item>
-<title>SPORT 1</title>
+<title>Live 1</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
 <fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
@@ -51,7 +51,7 @@
 
 
 <item>
-<title>SPORT 2</title>
+<title>Live 2</title>
 <link>$doregex[data_jogo]</link>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
 <fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
