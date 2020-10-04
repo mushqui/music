@@ -2,7 +2,7 @@
 <channels>
   
 <channel>
-<name>[COLORcyan]Sport[/COLOR]</name>
+<name>[COLORcyan]Live[/COLOR]</name>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mushqui/music/master/sport.xml</externallink>
 <fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
@@ -11,7 +11,7 @@
 </channels>
 
 <channel>
-<name>[COLORcyan]Music[/COLOR]</name>
+<name>[COLORcyan]Channels[/COLOR]</name>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mushqui/music/master/sport.xml</externallink>
 <fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
