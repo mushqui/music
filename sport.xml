@@ -10,8 +10,8 @@
 <item>
 <title>Live 1</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
-<fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
+<thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
 <regex>
     <name>makelist</name>
     <listrepeat><![CDATA[
@@ -53,8 +53,8 @@
 <item>
 <title>Live 2</title>
 <link>$doregex[data_jogo]</link>
-<thumbnail>https://mushqui.000webhostapp.com/mushqui/icon.png</thumbnail>
-<fanart>https://mushqui.000webhostapp.com/mushqui/fanart.jpg</fanart>
+<thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
 <regex>
 <name>data_jogo</name>
 <listrepeat><![CDATA[
