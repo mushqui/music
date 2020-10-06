@@ -1,0 +1,13 @@
+<item>
+<title>[COLOR blue]tv[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://script.module.worldtv/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
+<thumbnail>http://www.looklivesports.com/sp-trans.png</thumbnail>
+</item>
+    <item>
+  <item>
+<title>[COLOR blue]tv[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://script.module.script.module.TvTap/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
+<thumbnail>http://www.looklivesports.com/sp-trans.png</thumbnail>
+</item>
