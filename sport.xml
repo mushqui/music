@@ -191,4 +191,19 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://sastatv.com/demo/[makelis
 <thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/sky_sports_news.png</thumbnail>
 <fanart></fanart>
 </item>
-
+<item>
+<title>[COLOR blue]ZEM Sports[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
+<thumbnail>http://www.looklivesports.com/sp-trans.png</thumbnail>
+</item>
+    <item>
+<title>[COLORgreen]ONLINE:[/COLOR]BT SPORT 3 ( MULTI )</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kisotv.com:1557/live/oxygen/oxygen/2605.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.sexytv.eu/live/1111/2222/119.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.199.187:8000/live/dmiptv/skypeuser/3592.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+</link>
+<thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/bt-sport-europe.jpg</thumbnail>
+<fanart></fanart>
+</item>
