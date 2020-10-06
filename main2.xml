@@ -11,9 +11,9 @@
 </channels>
 
 <channel>
-<name>[COLORcyan]Channels[/COLOR]</name>
+<name>[COLORcyan]IPTV[/COLOR]</name>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mushqui/music/master/sport.xml</externallink>
+<externallink>https://raw.githubusercontent.com/mushqui/music/master/iptv.xml</externallink>
 <fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
 <info></info>
 </channel>
