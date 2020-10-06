@@ -191,13 +191,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://sastatv.com/demo/[makelis
 <thumbnail>http://kodeeresurrection.com/LILYSPORTStxts/pngs/sky_sports_news.png</thumbnail>
 <fanart></fanart>
 </item>
-<item>
-<title>[COLOR blue]tv[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://script.module.worldtv/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
-<thumbnail>http://www.looklivesports.com/sp-trans.png</thumbnail>
-</item>
-    <item>
+
+    <item>      
 <title>[COLORgreen]ONLINE:[/COLOR]BT SPORT 3 ( MULTI )</title>
 <link>
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kisotv.com:1557/live/oxygen/oxygen/2605.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
