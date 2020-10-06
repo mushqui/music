@@ -90,7 +90,7 @@
 </item>
 <item>
     <title>Channels 1</title>
-    <link>https://raw.githubusercontent.com/ajonx/Ambyar-TV/master/Sports.m3u</link>
+    <externallink>https://raw.githubusercontent.com/ajonx/Ambyar-TV/master/Sports.m3u</externallink>
 	<thumbnail></thumbnail>
     <fanart></fanart>
 </item>
