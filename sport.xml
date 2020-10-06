@@ -192,9 +192,9 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://sastatv.com/demo/[makelis
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR blue]ZEM Sports[/COLOR]</title>
+<title>[COLOR blue]tv[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
+<jsonrpc>plugin://script.module.worldtv/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
 <thumbnail>http://www.looklivesports.com/sp-trans.png</thumbnail>
 </item>
     <item>
