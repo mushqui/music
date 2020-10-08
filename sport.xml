@@ -7,44 +7,61 @@
 <!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
 
 <item>
-<title>test</title>
-<link>$doregex[makelist]</link>
+<title>test 2</title>
+<link>$doregex[data_jogo]</link>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
 <fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
 <regex>
-    <name>makelist</name>
-    <listrepeat><![CDATA[
-    <title>[COLOR lime] -[COLOR white][makelist.param1] - [makelist.param2] [COLOR lime](Sports Bar)[/COLOR]</title>
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <thumbnail>$pyFunction:'[makelist.param4]'.replace('sporttv1', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('sporttv2', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('sporttv3', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('sporttv4', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('sporttv5', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd2', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd3', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd4', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd5', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd6', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd7', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd8', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd9', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('hd10', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br1', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br2', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br3', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br4', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png').replace('br5', 'https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png')</thumbnail>
-    <fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
-    ]]></listrepeat>
-    <expres>(\d\d:\d\d)\s+(.+?)\|\s+https\:\/\/freestreams\-\/-live1\/(.+?)\/(.+?)\.com/</expres>
-    <page>http://freestreams-live1.com/</page>
-</regex>
-    <regex>
-    <name>canal</name>
-    <expres>$pyFunction:'[makelist.param4]'.replace('sporttv1', 'Sport Tv 1').replace('sporttv2', 'Sport Tv 2').replace('sporttv3', 'Sport Tv 3').replace('sporttv4', 'Sport Tv 4').replace('sporttv5', 'Sport Tv 5').replace('hd1', 'Multicanal 1').replace('hd2', 'Multicanal 2').replace('hd3', 'Multicanal 3').replace('hd4', 'Multicanal 4').replace('hd5', 'Multicanal 5').replace('hd6', 'Multicanal 6').replace('hd7', 'Multicanal 7').replace('hd8', 'Multicanal 8').replace('hd9', 'Multicanal 9').replace('hd10', 'Multicanal 10').replace('br1', 'Brasil 1').replace('br2', 'Brasil 2').replace('br3', 'Brasil 3').replace('br4', 'Brasil 4').replace('br5', 'Brasil 5')</expres>
-    <page></page>
+<name>data_jogo</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lawngreen][B] ([data_jogo.param1])[/B][/COLOR][COLOR white][B] [data_jogo.param2][/B][/COLOR]</title>
+<link>$doregex[link]</link>
+ <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[(?s)\<tr\>\s+\<td>(.*?)<\/td\>\s+\<td>(.+?)<\/td>(?s)(.+?)<\/tr>]]></expres>
+<page>http://freestreams-live1.com/</page>
 </regex>
 <regex>
-
-<name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>http://freestreams-live1.com//[makelist.param3]/[makelist.param4].php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>http://freestreams-live1.com//[makelist.param3]/[makelist.param4].php</page>
-        <referer>http://freestreams-live1.com//[makelist.param3]/[makelist.param4].php</referer>
-    </regex>
+<name>link</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lawngreen][B] -[/B][/COLOR][COLOR white][B] [link.param2][/B][/COLOR] [COLOR lime](Sports Bar)[/COLOR]</title>
+<link>$doregex[decode]</link>
+ <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[href\="(.*?)">(.*?)<\/a]]></expres>
+<page>[data_jogo.param3]</page>
+</regex>
+<regex>
+<name>decode</name>
+<expres>$pyFunction:base64.b64decode('$doregex[base]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>base</name>
+<expres><![CDATA[window\.atob\("(.*?)"]]></expres>
+<page>http://freestreams-live1.com//[link.param1]</page>
+</regex>
+</item>
+<item>
+<title>1streamhd-Football</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR red][makelist.param2][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=$doregex[get_php]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>a href="(.+football.+php)"> (.+?.*) <.*a></expres>
+<page>http://freestreams-live1.com//football/</page>
+</regex>
+<regex>
+<name>get_php</name>
+<expres>iframe" src="(.+?)"</expres>
+<page>http://freestreams-live1.com/[makelist.param1]</page>
+</regex>
 </item>
 
     
