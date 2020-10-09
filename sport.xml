@@ -5,7 +5,12 @@
 <layouttype>Fuck Off You Nosey Cunt</layouttype>
 
 <!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
-
+<item>
+<title>[COLOR gold]     ====>>   [/COLOR][COLOR white]  Rojadirecta  [/COLOR][COLOR gold]   <<====[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+ <thumbnail>http://4.bp.blogspot.com/-OmsH2QWfEV4/UksL5FkbvLI/AAAAAAAAP4g/Y8sdvowg-BE/s600/rojadirecta-online-streams-InfoDeportiva-com.jpg</thumbnail>
+</item> 
 <item>
 <title>Live 1</title>
 <link>$doregex[makelist]</link>
