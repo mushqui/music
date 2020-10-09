@@ -89,7 +89,7 @@
 </item>
 <title>[COLOR yellow]TV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil [/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.tv.cfg&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=modules/lshunter-new.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
 <item>
