@@ -87,31 +87,24 @@
 <page>https://dailysport.pw/[link.param1]</page>
 </regex>
 </item>
-<item>
-<title>lshunters.tv/</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR red][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=lshunter-new.cfg1&amp;item=catcher%3Dstreams%26url=$doregex[get_php]</link>
+<title>[COLOR yellow]TV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.tv.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
-]]></listrepeat>
-<expres>a href="(.+football.+php)"> (.+?.*) <.*a></expres>
-<page>http://lshunters.tv/</page>
-</regex>
-<regex>
-<name>get_php</name>
-<expres>iframe" src="(.+?)"</expres>
-<page>http://www.streamhd.eu[makelist.param1]</page>
-</regex>
-</item>
+<thumbnail></thumbnail></item>
 <item>
 <title>Tennis Roland Garros</title>
-<sportsdevil>http://www.hesgoal.com/news/69449/Tennis_Roland_Garros.html</sportsdevil>
+<sportsdevil>http://www.hesgoal.com/news/69456/Bulgaria_U21_vs_Latvia_U21.html</sportsdevil>
 <referer> </referer>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
-</item>    
+</item> 
+    <item>
+<title>Tennis Roland Garros</title>
+<sportsdevil>http://www.hesgoal.com/news/69456/Bulgaria_U21_vs_Latvia_U21.html</sportsdevil>
+<referer> </referer>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+</item> 
     
  
