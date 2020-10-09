@@ -6,6 +6,15 @@
 
 <!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
 <item>
+<title>bt sport 1</title>
+<sportsdevil>https://time4tv.stream/sports/bt-sport-1.php</sportsdevil>
+<referer>http://mammahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+	
+<item>
 <title>[COLOR gold]     ====>>   [/COLOR][COLOR white]  Rojadirecta  [/COLOR][COLOR gold]   <<====[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
@@ -896,8 +905,8 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
  
  
 <item>
-<title>Sky Sports F1 </title>
-<sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sportsdevil>
+<title>bt sport 1</title>
+<sportsdevil>https://time4tv.stream/sports/bt-sport-1.php</sportsdevil>
 <referer>http://mammahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
 <fanart></fanart>
