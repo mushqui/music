@@ -88,17 +88,17 @@
 </regex>
 </item>
 <item>
-<title>1streamhd-Football</title>
+<title>lshunters.tv/</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR red][makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=$doregex[get_php]</link>
+<link>plugin://plugin.video.SportsDevil/?mode=lshunter-new.cfg1&amp;item=catcher%3Dstreams%26url=$doregex[get_php]</link>
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>a href="(.+football.+php)"> (.+?.*) <.*a></expres>
-<page>http://www.streamhd.eu/football/</page>
+<page>http://lshunters.tv/</page>
 </regex>
 <regex>
 <name>get_php</name>
@@ -106,5 +106,12 @@
 <page>http://www.streamhd.eu[makelist.param1]</page>
 </regex>
 </item>
+<item>
+<title>Tennis Roland Garros</title>
+<sportsdevil>http://www.hesgoal.com/news/69449/Tennis_Roland_Garros.html</sportsdevil>
+<referer> </referer>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+</item>    
     
  
