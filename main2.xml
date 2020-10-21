@@ -14,18 +14,12 @@
 <channel>
 <name>[COLORcyan]Live Channels[/COLOR]</name>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
-<externallink>https://mushqui.000webhostapp.com/mushqui/sports%20bar/uk.xml</externallink>
+<externallink>https://raw.githubusercontent.com/mushqui/music/master/sport.xml</externallink>
 <fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channels>
-<channel>
-<name>[COLORcyan]IPTV[/COLOR]</name>
-<thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mushqui/music/master/iptv.xml</externallink>
-<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
-<info></info>
-</channel>
+
 </channels>
 
 
