@@ -1,157 +1,142 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 HD
-http://twiptv.co.uk:8181/jere/jere/21125?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://sd-48232.dedibox.fr:25461/93xxDXA2qY/ue8tWAXBe4/4656?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/8.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24169?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114284?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://flow2.biz:25461/800104/800104/45991?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 backup
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/8950.m3u8?checkedby:hlscat.com#EXTM3U
-#PLAYLIST:hlscat.com
+#PLAYLIST:
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",VIP UK: BT Sport 3 HD 1080p
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/6631.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/6631.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 HD
-http://twiptv.co.uk:8181/jere/jere/21125?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://twiptv.co.uk:8181/jere/jere/21125?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 2 HD
-http://twiptv.co.uk:8181/jere/jere/3655?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://twiptv.co.uk:8181/jere/jere/3655?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 3 HD
-http://twiptv.co.uk:8181/jere/jere/21126?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://twiptv.co.uk:8181/jere/jere/21126?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT ESPN
-http://exodus1.eu:8080/blue123/blue123/501237?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501237?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://rv.therevenge.co:80/477846155654/477846155654/79957?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79957?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67062?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://185.232.53.5:2086/arellano/kgtL965n2Y/67062?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79978?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79978?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://rv.therevenge.co:80/477846155654/477846155654/79978?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79978?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1 SD
-http://exodus1.eu:8080/blue123/blue123/501223?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501223?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://rv.therevenge.co:80/477846155654/477846155654/79956?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79956?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67063?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://185.232.53.5:2086/arellano/kgtL965n2Y/67063?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://rv.therevenge.co:80/477846155654/477846155654/79977?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79977?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79956?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79956?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://rv.therevenge.co:80/477846155654/477846155654/79931?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79931?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67075?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://185.232.53.5:2086/arellano/kgtL965n2Y/67075?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
-http://rv.therevenge.co:80/477846155654/477846155654/79976?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79976?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79955?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79955?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79976?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79976?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3 SD
-http://exodus1.eu:8080/blue123/blue123/501232?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501232?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67076?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://185.232.53.5:2086/arellano/kgtL965n2Y/67076?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://rv.therevenge.co:80/477846155654/477846155654/79979?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79979?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79958?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79958?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://rv.therevenge.co:80/477846155654/477846155654/79933?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79933?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79979?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79979?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 1
-http://exodus1.eu:8080/blue123/blue123/501242?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501242?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 1
-http://rv.therevenge.co:80/477846155654/477846155654/79912?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79912?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 2
-http://exodus1.eu:8080/blue123/blue123/501243?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501243?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 2
-http://rv.therevenge.co:80/477846155654/477846155654/79911?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79911?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 2
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79911?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79911?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 3
-http://exodus1.eu:8080/blue123/blue123/501244?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501244?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 3
-http://rv.therevenge.co:80/477846155654/477846155654/79910?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://rv.therevenge.co:80/477846155654/477846155654/79910?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 4
-http://exodus1.eu:8080/blue123/blue123/501245?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501245?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 6
-http://exodus1.eu:8080/blue123/blue123/501247?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501247?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 6
-http://62.182.80.246:80/xiKEzdEAY4/k3oBnb8xXc/79907?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/xiKEzdEAY4/k3oBnb8xXc/79907?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 6
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79907?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/79907?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24169?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24169?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/8.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/8.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://flow2.biz:25461/800104/800104/45991?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://flow2.biz:25461/800104/800104/45991?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114284?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://31.220.40.44:80/Ung_debernardi123/mag322/114284?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 backup
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/8950.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/8950.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
-http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24171?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24171?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/6.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/6.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114285?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://31.220.40.44:80/Ung_debernardi123/mag322/114285?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
-http://flow2.biz:25461/800104/800104/45990?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://flow2.biz:25461/800104/800104/45990?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114286?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://31.220.40.44:80/Ung_debernardi123/mag322/114286?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/5547.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/5547.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
-http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24173?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24173?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 SD
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4954.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4954.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN
-http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24175?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24175?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114287?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://31.220.40.44:80/Ung_debernardi123/mag322/114287?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Europe HD
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/3.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/3.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 1
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4476.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4476.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 2
-http://31.220.40.44:80/Ung_debernardi123/mag322/114289?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://31.220.40.44:80/Ung_debernardi123/mag322/114289?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 2
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4477.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4477.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 3
-http://31.220.40.44:80/Ung_debernardi123/mag322/114290?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://31.220.40.44:80/Ung_debernardi123/mag322/114290?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 4
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4479.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/4479.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 4
-http://31.220.40.44:80/Ung_debernardi123/mag322/114291?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://31.220.40.44:80/Ung_debernardi123/mag322/114291?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 5
-http://31.220.40.44:80/Ung_debernardi123/mag322/114292?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://31.220.40.44:80/Ung_debernardi123/mag322/114292?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports 1
-http://185.246.210.92:80/danielvell@gmail.com/xeC8NAO9/33?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://185.246.210.92:80/danielvell@gmail.com/xeC8NAO9/33?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports 1 HD
-http://185.246.210.92:80/danielvell@gmail.com/xeC8NAO9/1511?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://185.246.210.92:80/danielvell@gmail.com/xeC8NAO9/1511?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports 2 HD
-http://185.246.210.92:80/danielvell@gmail.com/xeC8NAO9/1512?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://185.246.210.92:80/danielvell@gmail.com/xeC8NAO9/1512?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports 2 SD
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/2464.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/2464.m3u8?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://104.218.61.161:83/directline76598/3522202030822350813MA8352020/207?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://104.218.61.161:83/directline76598/3522202030822350813MA8352020/207?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BT Sports 1
-http://my.streamerstv.com:25461/plok12/111111/1679?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://my.streamerstv.com:25461/plok12/111111/1679?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BT Sports 1
-http://104.218.61.161:83/directline76598/3522202030822350813MA8352020/116?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://104.218.61.161:83/directline76598/3522202030822350813MA8352020/116?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BT Sports 2
-http://my.streamerstv.com:25461/plok12/111111/1680?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://my.streamerstv.com:25461/plok12/111111/1680?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BT Sports 3
-http://my.streamerstv.com:25461/plok12/111111/1681?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://my.streamerstv.com:25461/plok12/111111/1681?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BT Sports ESPN
-http://my.streamerstv.com:25461/plok12/111111/1682?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?url=http://my.streamerstv.com:25461/plok12/111111/1682?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
