@@ -1,15 +1,27 @@
-  
-<item>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+  <item>
 <title>[B][COLORdodgerblue]**********************************[/COLOR][/B]</title>
 </item>
-<dir>
-<title>[COLORcyan]Sky[/COLOR]</title>
-<link>https://raw.githubusercontent.com/mushqui/music/master/sport.xml</link>
-</dir>
-<dir>
-<title>[COLORcyan]Bt[/COLOR]</title>
-<link>https://raw.githubusercontent.com/mushqui/music/master/bt.xml</link>
-</dir>
-<item>
+<channel>
+<name>[COLORcyan]Sky[/COLOR]</name>
+<thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mushqui/music/master/sport.xml</externallink>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+<channels>
+  <item>
 <title>[B][COLORdodgerblue]**********************************[/COLOR][/B]</title>
 </item>
+<channel>
+<name>[COLORcyan]Bt[/COLOR]</name>
+<thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mushqui/music/master/bt.xml</externallink>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
