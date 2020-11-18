@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:Sports Bar
 #EXTINF:0 tvg-country="GB" tvg-logo="https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png"="https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png" group-title="Sport",SKY SPORTS MAIN EVENT SD
-plugin://plugin.video.f4mTester/?url=http://exodus1.eu:8080/blue123/blue123/501193?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
+plugin://plugin.video.f4mTester/?url=http://runnel.ir/bt-sport-1/&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png"="" group-title="Sport",Sky Sports Main Event UK
 plugin://plugin.video.f4mTester/?url=http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/376?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png"="" group-title="Sport",SKY Sports Main Event
