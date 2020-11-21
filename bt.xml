@@ -1,12 +1,10 @@
 #EXTM3U
 #PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 FHD
-plugin://plugin.video.f4mTester/?url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30334?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 
+plugin://plugin.video.f4mTester/?url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4758?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30334?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
 plugin://plugin.video.f4mTester/?url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234227?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
-plugin://plugin.video.f4mTester/?url=http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/1263?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
-plugin://plugin.video.f4mTester/?url=http://greenstreamtv.xyz:25461/MS11/M1234/1263?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 (tr)(1080)
-plugin://plugin.video.f4mTester/?url=http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/62026?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvsmarters.cc:25461/bercan/bercan/4241?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
