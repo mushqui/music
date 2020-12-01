@@ -88,5 +88,45 @@
 <page>https://dailysport.live/[link.param1]</page>
 </regex>
 </item>
+    
+ 
+<item>
+<title>Live 3</title>
+<link>$doregex[data_jogo]</link>
+<thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
+<regex>
+<name>data_jogo</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lawngreen][B] ([data_jogo.param1])[/B][/COLOR][COLOR white][B] [data_jogo.param2][/B][/COLOR]</title>
+<link>$doregex[link]</link>
+ <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[(?s)\<tr\>\s+\<td>(.*?)<\/td\>\s+\<td>(.+?)<\/td>(?s)(.+?)<\/tr>]]></expres>
+<page>http://www.hesgoal.com/</page>
+</regex>
+<regex>
+<name>link</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lawngreen][B] -[/B][/COLOR][COLOR white][B] [link.param2][/B][/COLOR] [COLOR lime](Sports Bar)[/COLOR]</title>
+<link>$doregex[decode]</link>
+ <thumbnail>https://mushqui.000webhostapp.com/mushqui/sports%20bar/icon.png</thumbnail>
+<fanart>https://mushqui.000webhostapp.com/mushqui/sports%20bar/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[href\="(.*?)">(.*?)<\/a]]></expres>
+<page>[data_jogo.param3]</page>
+</regex>
+<regex>
+<name>decode</name>
+<expres>$pyFunction:base64.b64decode('$doregex[base]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>base</name>
+<expres><![CDATA[window\.atob\("(.*?)"]]></expres>
+<page>https://dailysport.live/[link.param1]</page>
+</regex>
+</item>   
 
  
