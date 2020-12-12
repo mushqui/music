@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 
-plugin://plugin.video.f4mTester/?url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4758?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 teas
+plugin://plugin.video.f4mTester/?url=http://freestreams-live1.com/skyspnews/&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 HD
 plugin://plugin.video.f4mTester/?url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30334?checkedby:hlscat.com&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR dodgerblue]Sports Bar[/COLOR]
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
