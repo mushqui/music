@@ -9,7 +9,7 @@
 <xml>
 <dir>
 <title>[COLORroyalblue]Beat Matching[/COLOR]</title>
-<link>https://raw.githubusercontent.com/mushqui/music/master/musicmain2.xml</link>
+<link>file://beatmatching.xml</link>
 <animated_thumbnail>https://giphy.com/gifs/26tn7BL2UDTMVWovu/html5</animated_thumbnail>
 </dir>
 </xml> 
