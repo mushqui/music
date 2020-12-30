@@ -65,17 +65,18 @@
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
-<dir>
-<name>[COLORcyan]Chart[/COLOR]</name>
-<link>file://chart.xml</link>
-<animated_thumbnail></animated_thumbnail>
-<animated_fanart></animated_fanart>
-</dir>
+
 <plugin>
     <title>[COLORcyan]Karaoke[/COLOR]</title>
     <link>plugin://plugin.video.youtube/channel/UCwTRjvjVge51X-ILJ4i22ew/playlists/</link>
     <
   </plugin>
+    	<dir>
+		<title>THE NAME OF YOUR SECTION</title>
+		<link>THE LINK OF YOUR XML</link>
+		<password>get/BASE64 CODE</password>
+		<thumbnail>THUMBNAIL</thumbnail>
+	</dir>
 </xml>
 
 
