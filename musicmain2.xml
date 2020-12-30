@@ -14,7 +14,7 @@
 
 <!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
 <item>
-<title>[COLORgold]RADIO[/COLOR]</title>
+<title>[COLORcyan]Radio[/COLOR]</title>
 <link>
 <sublink>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p (RADIO 1)</sublink>
 <sublink>http://radio.talkradio.co.uk/stream (TALK RADIO)</sublink>
@@ -43,7 +43,7 @@
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/Be%20a%20Dj/radio.png</thumbnail>
 </item>
 <dir>
-<title>[COLORcyan]TUTORIALS[/COLOR]</title>
+<title>[COLORcyan]Tutorials[/COLOR]</title>
 <link>https://raw.githubusercontent.com/mushqui/music/master/tutmain.xml</link>
 <thumbnail>https://mushqui.000webhostapp.com/mushqui/Be%20a%20Dj/tuts.png</thumbnail>    
 </dir> 
@@ -54,19 +54,19 @@
 <animated_fanart></animated_fanart>
 </dir>
 <dir>
-<name>[COLORcyan]DJ SETS[/COLOR]</name>
+<name>[COLORcyan]Dj Sets[/COLOR]</name>
 <link>file://djsets.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
 <dir>
-<name>[COLORcyan]GUEST MIXES[/COLOR]</name>
+<name>[COLORcyan]Guest Mixes[/COLOR]</name>
 <link>https://pastebin.com/raw/pai0Tj02</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
 <dir>
-<name>[COLORcyan]CHART[/COLOR]</name>
+<name>[COLORcyan]Chart[/COLOR]</name>
 <link>file://chart.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
